@@ -1,0 +1,5 @@
+
+Use Instructions:
+
+GENERATE WEBSITE COMMAND: bundle exec jekyll serve
+VISIT -> http://localhost:4000

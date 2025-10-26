@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ site.description }}">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  
+  <!-- Google Fonts: Forum & Cairo -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&family=Forum&display=swap" rel="stylesheet">
+  
+  <!-- Minima's base CSS -->
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  
+  <!-- Your custom CSS -->
+  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+  
+  <!-- ADD THIS CRITICAL CSS HERE -->
+  <style>
+    /* Prevent flash on initial page load */
+    body {
+      background-color: #1a202c;
+    }
+    
+    /* Ensure smooth initial render */
+    .sidebar::before {
+      transition: none;
+    }
+  </style>
+  
+  {% feed_meta %}
+</head>
+<body>
+  <div class="site-container">
+    {% include sidebar.html %}
+    
+    <main class="main-content" id="content">
+      {{ content }}
+    </main>
+  </div>
+  
+  <!-- Page transition script -->
+  <script src="{{ "/assets/js/page-transition.js" | relative_url }}"></script>
+  
+  <!-- ADD THIS SCRIPT HERE, RIGHT BEFORE </body> -->
+  <script>
+    window.addEventListener('load', function() {
+      // Re-enable transitions after initial load
+      const sidebar = document.querySelector('.sidebar');
+      if (sidebar) {
+        sidebar.style.cssText = '';
+      }
+    });
+  </script>
+</body>
+</html>

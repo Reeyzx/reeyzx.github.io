@@ -1,0 +1,17 @@
+---
+layout: page
+title: BCM 241
+permalink: /bcm241/
+---
+
+## BCM 241 - Media Ethnographies
+
+### Assignments
+
+{% for assignment in site.bcm241 %}
+- [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+---
+
+[Back to Home](/)
