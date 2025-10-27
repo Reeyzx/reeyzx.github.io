@@ -16,17 +16,17 @@ https://www.youtube.com/watch?v=ko3gzy4cocM
 
 **My research initially covers the following interconnected sites:**
 
-### Resources & Learning Materials:
+Resources & Learning Materials:
 - Community Assets (Roblox Studio open-sourced models, Roblox DevForum modules)
 - Tutorial Videos (YouTube content creators, including Dabidar)
 - Existing Products (Roblox games implementing raycast systems, including Jailbreak)
 
-### Social Networks:
+Social Networks:
 - Discord servers: Primary site for player & developer discussion
 - Reddit communities: r/robloxgamedev and r/RobloxDevelopers
 - Roblox Developer Hub: Official documentation and forums
 
-### Key Stakeholders:
+Key Stakeholders:
 - Experienced developers who've implemented raycast systems
 - Novice developers seeking accessible vehicle solutions
 - Players who experience raycast vehicles
@@ -70,13 +70,13 @@ By observation, these posts feature only about 1-2 comments, and the original po
 
 After finding out Reddit's knowledge vacuum, I shifted focus to Discord servers and group chats where active developers and casual players are available for personal sharing. Through notes documented from the conversations initiated (as a matter of respecting privacy), I identified some critical patterns that would become another major finding:
 
-### Player perspectives revealed:
+**Player perspectives revealed:**
 
 - Players cannot distinguish raycast from physics-based vehicles during gameplay. Surprisingly, they have clear and striking memory of the "feel" and responsiveness of the vehicles in each Roblox car games that they have played, and is able to judge them.
 
 - Preferences cluster around "arcade fun with realistic details". Cravings that signals technical sophistication but low entry barrier.
 
-### Developer discussions exposed:
+**Developer discussions exposed:**
 
 - Experienced programmer (5+ years) struggled to articulate why raycast vehicles offer advantages aside from vague statements like "raycast is more efficient, I've tested"
 
@@ -86,7 +86,7 @@ After finding out Reddit's knowledge vacuum, I shifted focus to Discord servers 
 
 # Key Epiphanies
 
-### Epiphany #1: Reddit's Knowledge Vacuum
+## Epiphany #1: Reddit's Knowledge Vacuum
 
 **What I expected:**
 Based on my experience with Roblox development and previous occasional encounters with mainstream game dev forums dropped into my feed, I assumed r/robloxgamedev and r/RobloxDevelopers would host active communities of productive spaces where developers engage in knowledge exchange, mentoring newcomers, and share or refine techniques in a collective way.
@@ -100,7 +100,7 @@ I projected my expectations from my personal networks onto public platforms. The
 **Academic Discoveries:**
 Kitto et al. (2025) identified three essential elements for functioning communities of practice: mutual engagement, joint enterprise, and collection of shared knowledge. Alas, it appears that Reddit's Roblox communities lack all three. Without what Kitto et al. called "innovation recipients" (the term describing experienced members taking up mentorship roles), these spaces struggles to progress beyond basic level help-seeking, let alone diving into the topic of raycast vehicle.
 
-## piphany #2: Experienced Developers Lack Raycast Vehicle Understanding
+## Epiphany #2: Experienced Developers Lack Raycast Vehicle Understanding
 
 **What I expected:**
 I assumed developers (especially programmers) who successfully implement advanced systems like player data compression and in-game building mechanics, must be able to weigh the pros and cons regarding raycast vehicle versus physical vehicle, and give me valuable guidance based on their existing knowledge on program optimization.
@@ -109,3 +109,17 @@ I assumed developers (especially programmers) who successfully implement advance
 Even developers with years of experience struggled to explain why raycast vehicles differ from physics-based approaches or what specific advantages they provide. Implementations succeeded through trial-and-error and by reusing modules, rather than proper understanding. They know how to make systems work without necessarily knowing why they work, or when to apply them appropriately.
 
 Ironically, this discovery felt oddly relatable, because I recognized the same pattern in my own AI-assisted programming work. I have built sophisticated procedural weather simulation system while lacking theoretical foundations. This research revealed that even the "experts" recognized by the community may be operating with procedural knowledge in certain fields.
+
+**Academic Discoveries:**
+Sheahan et al. (2021) explain that **tacit knowledge** refers to understanding gained via personal experience, instead of traditionally taught knowledge. The research suggested that tacit knowledge exists beyond things that can be readily communicated. Building on top of Polanyi's (1966) concept that "we know more than we can tell," Sheahan et al. revealed that people often develop competence through repeated encounters with situations, rather than theoretical study. This appear to explain my observation where experienced developers have acquired relevant skills to talk about the suface of raycast vehicle, yet not enough to freely express sophisticated concepts over said topic.
+
+
+
+---
+
+# Reference List
+
+Kitto, S., Fantaye, A. W., Ghidinelli, M., Clarkin, C., Cheung, W. J., Dath, D., & Chan, T. (2025). Barriers and facilitators to the cultivation of communities of practice for faculty development in medical education: A scoping review. Medical Teacher, 47(10), 1464-1477. https://doi.org/10.1080/0142159X.2025.2495628
+
+Sheahan, J., Davies, H., & Hjorth, L. (2021). The art of tacit learning in serious location-based games. Frontiers in Education, 6, Article 686633. https://doi.org/10.3389/feduc.2021.686633
+
