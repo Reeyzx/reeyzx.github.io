@@ -44,7 +44,8 @@ The biggest issue during development was achieving a **Minimal Viable Product (M
 # Community Reception & Risk Management
 
 ---
-https://bsky.app/profile/qwertzstudio.bsky.social/post/3m4ztnq7rls2e
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:py3wo5fwwzpcbyln7okmdefm/app.bsky.feed.post/3m4ztnq7rls2e" data-bluesky-cid="bafyreibgot7qqvyrjxt2dfahbjj6sydsgewm4dbumrsfrj55zuh5shtoeu" data-bluesky-embed-color-mode="system"><p lang="en">A look in our experimental raycast vehicle chassis demo
+#roblox #robloxstudio #gamedev<br><br><a href="https://bsky.app/profile/did:plc:py3wo5fwwzpcbyln7okmdefm/post/3m4ztnq7rls2e?ref_src=embed">[image or embed]</a></p>&mdash; Qwertz Studio (<a href="https://bsky.app/profile/did:plc:py3wo5fwwzpcbyln7okmdefm?ref_src=embed">@qwertzstudio.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:py3wo5fwwzpcbyln7okmdefm/post/3m4ztnq7rls2e?ref_src=embed">Nov 7, 2025 at 6:11 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 --- 
 
 ### Making Something VS Making People Care:
