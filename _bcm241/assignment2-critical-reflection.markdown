@@ -13,6 +13,12 @@ The three platforms represent distinct characters within the overall Roblox ecos
 
 The focus of this auto-ethnographic account is to document and test the knowledge base of both Roblox players and developers (including myself) regarding raycast vehicle module production, as well as to uncover the underlying challenges of actual development that is not easily understood from the perspective of an observing party.
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3QGVhcNi2Ss" frameborder="0" allowfullscreen></iframe>
+
+---
+
 # Media Research Ethics Charter
 
 Throughout the entire ethnographic research and artifect development process, I abide by the following ethical principles:
@@ -36,6 +42,10 @@ The result eventually led me to settle on this approach: Mimic realism through a
 The biggest issue during development was achieving a **Minimal Viable Product (MVP)** within one week. People were waiting for results, and I had my own standards for what "done" should look like, but reality revealed the harsh truth that you can only accomplish so much within a specific timeframe. While this is an academic research project in a controlled environment, it mirrors how developers working on sophisticated projects in this (or similar) media niche face brutal judgements when expectations aren't met -- A reality that directly links to the next portion.
 
 # Community Reception & Risk Management
+
+---
+https://bsky.app/profile/qwertzstudio.bsky.social/post/3m4ztnq7rls2e
+--- 
 
 ### Making Something VS Making People Care:
 
@@ -62,3 +72,5 @@ Being a creator in this community isn't primarily about technical mastery. Inste
 ### Continuation on the DEMO:
 
 I'm currently actively listening to emerging community feedback and advises, though further iterations will only be made following the end of the academic semester. By engaging with the media niche of Roblox raycast vehicle from observation to production process, I learned that authenticity in the creator role means embracing the vulnerability of unfinished work, while maintaining agency over when and how that work evolves. This exactly mirrors what I initially saw in the few demonstration videos on Youtube -- Audiences were split on how they felt, with many showing appreciation, but also some who revealed frustration and resentment.
+
+[LINK: Roblox Vehicle Physics Demo](https://www.roblox.com/games/74880561692357)
