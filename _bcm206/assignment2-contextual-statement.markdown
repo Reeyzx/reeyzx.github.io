@@ -43,6 +43,8 @@ This feedback would catalyze the implementation of more advanced gearbox logic, 
 
 Version 9.x addressed technical debt from rapid feature expansion. The entire cycle dedicated to stabilization and bug fixing, revealing a structural problem requiring architectural redesign.
 
+![alt_text](/assets/images/bcm206_assets/Screenshot%202025-11-23%20202022.png)
+
 ### Version 10.x -- Cross-institutional Knowledge Transfer
 
 Version 10.x represented a critical moment illustrating cross-institutional knowledge transfer. A friend currently on his media internship semester in Europe mentioned **object-oriented design (OOD)** principles from his programming course lecture. This knowledge, originating from a different institution, became integrated into this particular iteration through casual conversation. 
@@ -91,8 +93,6 @@ As Chapter 1 explains, the ability to connect instantly with people, regardlessl
 The classmate who identified functional limitations in v7 contributed partial expertise from gameplay experience, while the friend contributed OOD knowledge from his separate course. These relationships were lateral peer participation instead of hierarchical mentorship. Each peer accessed the project directly and provided feedback, exemplifying Chapter 1's principle of "digital identities" individuals construct across platforms, where traditional role boundaries (e.g. a rigid "Audience", "Developer", "Critic") dissolve into blended, fluid collaboration.
 
 The YouTube documentation in v11 extends peer support beyond the core development team by publicly sharing the playable experience, inviting broader community participation and feedback. By making the project publicly available, feedback from players and other developers naturally shapes how future updates and improvements are made. This open, ongoing exchange is key to how learning happens and how the vehicle system continues to develop.
-
-![alt_text](/assets/images/bcm206_assets/Screenshot%202025-11-23%20202022.png)
 
 ## Conclusion
 
