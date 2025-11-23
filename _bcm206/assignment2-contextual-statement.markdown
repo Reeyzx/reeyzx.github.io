@@ -5,15 +5,17 @@ date: 2025-11-23
 course: "BCM 206"
 ---
 
-# [GRADING SECTION: BCM206 Chapter 1 - Network Society Analysis]
 
 ## Introduction
 
-The Raycast Vehicle Chassis Project is intended to be an open-sourced experimental platform for aspiring Roblox game developers to study advanced vehicle mechanics through direct participation and playtesting. Hosted at https://www.roblox.com/games/74880561692357/Raycast-Chassis-DEMO, the project is entirely developed using AI assistance, functioning as a **demonstration for how modern networks redistribute a source of trusted knowledge in technical education.** Rather than consuming pre-packaged tutorials from singular expert sources, player-developers engage with a living, iterative project where their feedback directly shapes development.
+The Raycast Vehicle Chassis Project is intended to be an open-sourced experimental platform for aspiring Roblox game developers to study advanced vehicle mechanics through direct participation and playtesting. Readily available for trial play on Roblox , the project is entirely developed using AI assistance, functioning as a **demonstration for how modern networks redistribute a source of trusted knowledge in technical education.** Rather than consuming pre-packaged tutorials from singular expert sources, player-developers engage with a living, iterative project where their feedback directly shapes development.
 
-This artefact reflects the network society principles outlined in BCM206 Chapter 1, demonstrating how decentralized knowledge creation and collaborative refinement can replace traditional hierarchical learning models. 
+![alt_text](/assets/images/bcm206_assets/noFilter.png)
+Link: <i src="https://www.roblox.com/games/74880561692357/Raycast-Chassis-DEMO">https://www.roblox.com/games/74880561692357/Raycast-Chassis-DEMO</i>
 
-The project also addresses an accessibility gap in Roblox physics education, where most vehicle tutorials remain static and gatekept behind elite developer communities or closed-source implementations. This project challenges that model by enabling peer-to-peer learning about both vehicle physics implementation, and the emerging role of AI in creative production that requires a certain degree of technical expertise.
+This artefact **reflects the network society principles outlined in BCM206 Chapter 1,** demonstrating how decentralized knowledge creation and collaborative refinement can replace traditional hierarchical learning models. 
+
+The project also **addresses an accessibility gap in Roblox physics education**, where most vehicle tutorials remain static and gatekept behind elite developer communities or closed-source implementations. This project challenges that model by enabling peer-to-peer learning about both vehicle physics implementation, and the emerging role of AI in creative production that requires a certain degree of technical expertise.
 
 ## Project Development Journey
 
@@ -22,9 +24,11 @@ Development occurred across 5 major versions between October and November 2025, 
 ![alt_text](/assets/images/bcm206_assets/Screenshot%202025-11-23%20193632.png)
 
 ### Version 7.x -- Minimal Viable Product (MVP)
-Version 7.x established the MVP with basic WASD controls. Internal testing revealed a self-rotation bug, but rather than delaying release, the MVP prioritised accessibility. This decision reflects **a network-society principle of distributing incomplete work early to enable distributed testing,** rather than gatekeeping until perfection.
+
+Version 7.x established the MVP with basic "WASD" controls. Internal testing revealed a self-rotation bug, but rather than delaying release, the MVP prioritised accessibility. This decision reflects **a network-society principle of distributing incomplete work early to enable distributed testing,** rather than gatekeeping until perfection.
 
 ### Version 8.x -- First Design Iteration
+
 Version 8.x marked the first design iteration following peer feedback. A classmate tested v7 and provided a critical observation:
 
 - The system functioned 
@@ -33,25 +37,29 @@ Version 8.x marked the first design iteration following peer feedback. A classma
 This feedback would catalyze the implementation of more advanced gearbox logic, horsepower mechanics, and transmission systems. Notably, the feedback wasn't expert instruction from an authority figure but subjective observation from a fellow peer who had no previous experience game developing, yet it sufficiently redirected development priorities.
 
 ### Version 9.x -- Bug Fixing
+
 Version 9.x addressed technical debt from rapid feature expansion. The entire cycle dedicated to stabilization and bug fixing, revealing a structural problem requiring architectural redesign.
 
 ### Version 10.x -- Cross-institutional Knowledge Transfer
+
 Version 10.x represented a critical moment illustrating cross-institutional knowledge transfer. A friend currently on his media internship semester in Europe mentioned "object-oriented design" (OOD) principles from his programming coursework. This knowledge, originating from a different institution, became integrated into this particular iteration through casual conversation. 
 
 Rather than consulting professional tutorials, the decision was made to prompt AI to restructure the entire codebase following OOD principles. 
 
-A YouTube video documenting v11 development is available here: <iframe width="560" height="315" src="https://www.youtube.com/embed/3QGVhcNi2Ss" frameborder="0" allowfullscreen></iframe>
+A YouTube video documenting v11 development is available here: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3QGVhcNi2Ss" frameborder="0" allowfullscreen></iframe>
 
 This version demonstrates how decentralization of information allows knowledge to freely transfer between institutional and geographic boundaries. A great leap from traditional gatekeeping structures.
 
 ### Version 11.x -- User Experience
+
 Version 11.x shifted from code iteration to user experience, with environment design and demo space construction enabling public accessibility.
 
 ---
 
 # [CRITICAL ANALYSIS SECTION: Key Learning Moments]
 
-The discussion topic of my project is closely related to BCM206 Chapter 1, **network society**.
+The discussion topic of my project is closely related to the course topic of **network society.**
 
 ## **Learning Moment 1:** Decentralised Expertise vs. Hierarchical Authority
 
@@ -67,14 +75,14 @@ Perhaps Wikipedia is a great demonstration of how today’s network society work
 
 Every contribution mattered, even from those who weren't experts in game mechanics or programming. I did not rely on one definitive tutorial, but drew on observations from my classmate, architectural hints from my international friend, and lots of hands-on testing. This mixture of input created a stronger result than if I'd followed just one expert. Getting things done in only four weeks, instead of months, showed how open collaboration and quick exchanges of ideas can speed up development and avoid the delays caused by waiting for formal approval.
 
-As Chapter 1 explains, the ability to connect instantly with people—no matter where they are—made all this possible. Advice came from the Netherlands, feedback from local friends, and even help from AI tools, blending together into one project. In the old model, centralised control would have slowed things down, but working in a network allowed for continuous, side-by-side teamwork that made the project much better, in much less time.​
-
+As Chapter 1 explains, the ability to connect instantly with people, regardlessl of where they are, made all this possible. Advice and feedback from peers locally and globally, and even help from AI tools, blends together into one project. In the old model, centralized control would have slowed things down, but working in a network allowed for continuous, side-by-side teamwork that made the project much better, in much less time.​
 
 ---
 
 # [SUPPORTING SECTIONS: Development Context & Peer Engagement]
 
 ## Peer Support and Collaborative Network
+
 The classmate who identified functional limitations in v7 contributed partial expertise from gameplay experience, while the friend contributed OOD knowledge from his separate coursework. These relationships were lateral peer participation instead of hierarchical mentorship. Each peer accessed the project directly and provided feedback, exemplifying Chapter 1's principle of "digital identities" individuals construct across platforms, where traditional role boundaries (e.g. a rigid "Audience", "Developer", "Critic") dissolve into blended, fluid collaboration.
 
 The YouTube documentation in v11 extends peer support beyond the core development team by publicly sharing the playable experience, inviting broader community participation and feedback. By making the project publicly available, feedback from players and other developers naturally shapes how future updates and improvements are made. This open, ongoing exchange is key to how learning happens and how the vehicle system continues to develop.
