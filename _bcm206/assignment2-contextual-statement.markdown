@@ -19,6 +19,8 @@ The project also addresses an accessibility gap in Roblox physics education, whe
 
 Development occurred across 5 major versions between October and November 2025, each version responding to peer feedback and collaborative input. The rapid iteration demonstrates how network-enabled development compresses development cycles compared to traditional practices. Below entails what happened during the process:
 
+![alt_text](/assets/images/bcm206_assets/Screenshot%202025-11-23%20193632.png)
+
 ### Version 7.x -- Minimal Viable Product (MVP)
 Version 7.x established the MVP with basic WASD controls. Internal testing revealed a self-rotation bug, but rather than delaying release, the MVP prioritised accessibility. This decision reflects **a network-society principle of distributing incomplete work early to enable distributed testing,** rather than gatekeeping until perfection.
 
