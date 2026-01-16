@@ -4,6 +4,7 @@ title: BCM 222
 permalink: /bcm222/
 ---
 
+{% include no-assignment-text.html %}
 
 ---
 

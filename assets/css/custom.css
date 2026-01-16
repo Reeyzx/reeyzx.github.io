@@ -6,8 +6,8 @@
    Variables
    ============================ */
 :root {
-  --sidebar-width: 25%;
-  --sidebar-bg: #1a202c;
+  --sidebar-width: 24%;
+  --sidebar-bg: #dce8ff;
   --sidebar-text: #ffffff;
   --main-bg: #f7fafc;
   --primary-color: #4299e1;
@@ -18,6 +18,9 @@
   --font-title: 'Forum', serif;
   --font-body: 'Cairo', sans-serif;
 }
+
+html{scrollbar-gutter: stable;} 
+/* prevent layout shift due to scrollbar appearance */
 
 
 /* ============================
@@ -176,7 +179,7 @@ body {
 
 
 .nav-link {
-  color: var(--sidebar-text);
+  color: #667eea;
   text-decoration: none;
   padding: 0.875rem 1.25rem;
   border-radius: 10px;
@@ -209,6 +212,9 @@ body {
               inset 0 0 20px rgba(255, 255, 255, 0.1);
 }
 
+.nav-link:visited {
+  color: inherit;
+}
 
 /* ============================
    Sidebar Bottom
@@ -223,7 +229,7 @@ body {
   margin-bottom: 1.5rem;
   padding: 1.25rem 1rem;
   border-radius: 10px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(221, 201, 201, 0.1);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.15);
@@ -367,16 +373,16 @@ body {
 
 .post-meta {
   font-family: var(--font-body);
-  font-size: 0.95rem;
+  font-size: 1rem;
   color: var(--text-secondary);
   margin-bottom: 2rem;
 }
 
 
 /* ============================
-   Course Grid
+   categories Grid
    ============================ */
-.course-grid {
+.categories-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 2rem;
@@ -384,7 +390,7 @@ body {
 }
 
 
-.course-card {
+.categories-card {
   background: white;
   border-radius: 16px;
   overflow: hidden;
@@ -393,13 +399,13 @@ body {
 }
 
 
-.course-card:hover {
+.categories-card:hover {
   transform: translateY(-8px) scale(1.02);
   box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
 }
 
 
-.course-card-image {
+.categories-card-image {
   width: 100%;
   height: 180px;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -413,12 +419,12 @@ body {
 }
 
 
-.course-card-content {
+.categories-card-content {
   padding: 1.5rem;
 }
 
 
-.course-card-title {
+.categories-card-title {
   font-family: var(--font-body);
   font-size: 1.25rem;
   font-weight: 600;
@@ -426,19 +432,19 @@ body {
 }
 
 
-.course-card-title a {
+.categories-card-title a {
   color: var(--text-color);
   text-decoration: none;
   transition: color 0.2s;
 }
 
 
-.course-card-title a:hover {
+.categories-card-title a:hover {
   color: var(--primary-color);
 }
 
 
-.course-card-description {
+.categories-card-description {
   font-family: var(--font-body);
   color: var(--text-secondary);
   font-size: 0.9rem;
@@ -503,6 +509,7 @@ body {
    ============================ */
 .post-content {
   font-family: var(--font-body);
+  font-size: 1.5rem;
   background: white;
   padding: 3rem;
   border-radius: 16px;
@@ -629,7 +636,7 @@ body {
     padding: 2rem 1.5rem;
   }
   
-  .course-grid {
+  .categories-grid {
     grid-template-columns: 1fr;
   }
   

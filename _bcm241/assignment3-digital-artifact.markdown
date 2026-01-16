@@ -2,7 +2,7 @@
 layout: post
 title: "BCM 241 - Digital Artifact"
 date: 2025-11-19
-course: "BCM 241"
+categories: "BCM 241"
 ---
 
 # Description

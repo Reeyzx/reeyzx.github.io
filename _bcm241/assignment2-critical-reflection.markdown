@@ -2,7 +2,7 @@
 layout: post
 title: "BCM 241 - Sharing Blog 2"
 date: 2025-11-07
-course: "BCM 241"
+categories: "BCM 241"
 ---
 
 # Introduction to Media Niche 

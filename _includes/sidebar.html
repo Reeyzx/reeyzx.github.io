@@ -8,8 +8,14 @@
       <a href="{{ '/' | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">
         Home
       </a>
-      <a href="{{ '/bcm241/' | relative_url }}" class="nav-link {% if page.url contains 'bcm241' %}active{% endif %}">
-        BCM 241
+      <a href="{{ '/about/' | relative_url }}" class="nav-link {% if page.url == '/about/' %}active{% endif %}">
+        About
+      </a>
+
+      <br>
+Semester 1
+      <a href="{{ '/bcm206/' | relative_url }}" class="nav-link {% if page.url contains 'bcm206' %}active{% endif %}">
+        BCM 206
       </a>
       <a href="{{ '/bcm212/' | relative_url }}" class="nav-link {% if page.url contains 'bcm212' %}active{% endif %}">
         BCM 212
@@ -17,12 +23,10 @@
       <a href="{{ '/bcm222/' | relative_url }}" class="nav-link {% if page.url contains 'bcm222' %}active{% endif %}">
         BCM 222
       </a>
-      <a href="{{ '/bcm206/' | relative_url }}" class="nav-link {% if page.url contains 'bcm206' %}active{% endif %}">
-        BCM 206
+      <a href="{{ '/bcm241/' | relative_url }}" class="nav-link {% if page.url contains 'bcm241' %}active{% endif %}">
+        BCM 241
       </a>
-      <a href="{{ '/about/' | relative_url }}" class="nav-link {% if page.url == '/about/' %}active{% endif %}">
-        About
-      </a>
+
     </nav>
     
     <!-- Spacer pushes content to bottom -->

@@ -9,8 +9,8 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}">
         {{ page.date | date: "%B %d, %Y" }}
       </time>
-      {% if page.course %}
-      • {{ page.course }}
+      {% if page.categories %}
+      • {{ page.categories }}
       {% endif %}
     </p>
   </header>

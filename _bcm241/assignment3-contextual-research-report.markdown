@@ -2,7 +2,7 @@
 layout: post
 title: "BCM 241 - Contextual Research Report"
 date: 2025-11-19
-course: "BCM 241"
+categories: "BCM 241"
 ---
 
 # Introduction and Overview
@@ -101,7 +101,7 @@ These epiphanies above changed my understanding of the Roblox raycast vehicle co
 - The creator vulnerability epiphany exposed emotional labor and social navigation as two easily overlooked core aspects of content creation. This extends further from my originally believed idea that technical mastery alone was suffice.
 - The gatekeeping epiphany revealed self-protection motivations behind expert behavior, debunking surface theories over motive to maliciously hoarding valuable knowledge.​
 
-Throughout this process, my ethnographic skills developed in ways aligning with BCM 241 course reading materials. I shifted from passive observation (blog 1's Reddit searches, forum browsing) towards active engagement (blog 2's content creation and community response management), demonstrating Wall's (2006) idea that autoethnography requires vulnerability. But most importantly, I've learned that ethnographic understanding requires humility. This is to accept and recognize when initial approaches fail, and utilize it as opportunities to extract insight, rather than defending flawed actions. 
+Throughout this process, my ethnographic skills developed in ways aligning with BCM 241 categories reading materials. I shifted from passive observation (blog 1's Reddit searches, forum browsing) towards active engagement (blog 2's content creation and community response management), demonstrating Wall's (2006) idea that autoethnography requires vulnerability. But most importantly, I've learned that ethnographic understanding requires humility. This is to accept and recognize when initial approaches fail, and utilize it as opportunities to extract insight, rather than defending flawed actions. 
 
 My ethnographic investigation took place across 3 separated phases, from community observation, to product creation, and to community feedback. The 3 phases revealed different aspects of the community. This process helpedd me reinforce the idea that ethnographic research is iterative in nature, which prompts researchers to remain actively responsive at each stage of community engagement.
 

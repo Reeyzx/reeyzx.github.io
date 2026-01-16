@@ -2,7 +2,7 @@
 layout: post
 title: "BCM 206 - Contextual Statement"
 date: 2025-11-23
-course: "BCM 206"
+categories: "BCM 206"
 ---
 
 # BCM206 Contextual Statement
@@ -47,7 +47,7 @@ Version 9.x addressed technical debt from rapid feature expansion. The entire cy
 
 ### Version 10.x -- Cross-institutional Knowledge Transfer
 
-Version 10.x represented a critical moment illustrating cross-institutional knowledge transfer. A friend currently on his media internship semester in Europe mentioned **object-oriented design (OOD)** principles from his programming course lecture. This knowledge, originating from a different institution, became integrated into this particular iteration through casual conversation. 
+Version 10.x represented a critical moment illustrating cross-institutional knowledge transfer. A friend currently on his media internship semester in Europe mentioned **object-oriented design (OOD)** principles from his programming categories lecture. This knowledge, originating from a different institution, became integrated into this particular iteration through casual conversation. 
 
 Rather than consulting professional tutorials, the decision was made to prompt AI to restructure the entire codebase following OOD principles. 
 
@@ -65,11 +65,11 @@ A YouTube video documenting v11 development is available here:
 
 # Key Learning Moments
 
-The discussion topic of my project is closely related to the course topic of **network society.**
+The discussion topic of my project is closely related to the categories topic of **network society.**
 
 ## **Learning Moment 1:** Decentralised Expertise vs. Hierarchical Authority
 
-In the past, learning about game development meant relying on instructions from experts, most frequently through tutorials written by professionals, while newcomers simply followed along. Yet, today's networked society works differently. Key differences being that knowledge can be spread out, shared among many people, rather than having just one central authority in charge. This idea became obvious in my project during version 10, when a friend studying media mentioned object-oriented design (OOD) from his course. Just chatting about it was enough for me to completely change how the project's structure worked.
+In the past, learning about game development meant relying on instructions from experts, most frequently through tutorials written by professionals, while newcomers simply followed along. Yet, today's networked society works differently. Key differences being that knowledge can be spread out, shared among many people, rather than having just one central authority in charge. This idea became obvious in my project during version 10, when a friend studying media mentioned object-oriented design (OOD) from his categories. Just chatting about it was enough for me to completely change how the project's structure worked.
 
 There was no formal lesson or expert approval. An informal chat between peers can quickly evolve into major, concrete redesign. This shows how information can travel quickly and directly between people working together, even across countries, and still lead to real improvements. Instead of depending on official credentials or expert instruction, I found that peer suggestions and direct teamwork could be just as effective, and sometimes even better, as the advice fitted the actual situation. 
 
@@ -90,7 +90,7 @@ As Chapter 1 explains, the ability to connect instantly with people, regardlessl
 
 ## Peer Support and Collaborative Network
 
-The classmate who identified functional limitations in v7 contributed partial expertise from gameplay experience, while the friend contributed OOD knowledge from his separate course. These relationships were lateral peer participation instead of hierarchical mentorship. Each peer accessed the project directly and provided feedback, exemplifying Chapter 1's principle of "digital identities" individuals construct across platforms, where traditional role boundaries (e.g. a rigid "Audience", "Developer", "Critic") dissolve into blended, fluid collaboration.
+The classmate who identified functional limitations in v7 contributed partial expertise from gameplay experience, while the friend contributed OOD knowledge from his separate categories. These relationships were lateral peer participation instead of hierarchical mentorship. Each peer accessed the project directly and provided feedback, exemplifying Chapter 1's principle of "digital identities" individuals construct across platforms, where traditional role boundaries (e.g. a rigid "Audience", "Developer", "Critic") dissolve into blended, fluid collaboration.
 
 The YouTube documentation in v11 extends peer support beyond the core development team by publicly sharing the playable experience, inviting broader community participation and feedback. By making the project publicly available, feedback from players and other developers naturally shapes how future updates and improvements are made. This open, ongoing exchange is key to how learning happens and how the vehicle system continues to develop.
 
