@@ -2,16 +2,13 @@
 layout: post
 title: "BCM 325 - Movie Screening 1"
 date: 2026-01-19
-categories: "BCM 325"
+categories: "bcm325"
 ---
 
 
 # 2001: A Space Odyssey
 
-Review
-
-
-
+<!-- Review
 
 early on in the movie, the apes went from being mauled by animals as prey to discovering tools (a bone). However, instead of collaborating, they almost immediately engaged in territorial behavior where multiple apes eliminate a singular rival among them.
 
@@ -29,7 +26,7 @@ As suggested by Heidegger in his conceptual critic of "poiesis" and "enframing",
 
 - HAL's poiesis was the learned emotions of mankind, and this enabled them to lie and deceive the astronauts 
 
-Ultimately, it shows that despite what looks like transcendence, the fundamental nature of mankind remains the same
+Ultimately, it shows that despite what looks like transcendence, the fundamental nature of mankind remains the same -->
 
 
 
