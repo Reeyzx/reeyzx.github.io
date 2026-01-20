@@ -6,9 +6,11 @@ permalink: /bcm206/
 
 ## BCM 206 - Future Networks
 
+
+
 ### Assignments
 
-{% for assignment in site.bcm206 %}
+{% for assignment in site.categories.bcm206 %}
 - [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
 {% endfor %}
 

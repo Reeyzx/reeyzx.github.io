@@ -52,17 +52,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Collections for courses
-collections:
-  bcm206:
-    output: true
-    permalink: /bcm206/:title/
-  bcm212:
-    output: true
-    permalink: /bcm212/:title/
-  bcm222:
-    output: true
-    permalink: /bcm222/:title/
-  bcm241:
-    output: true
-    permalink: /bcm241/:title/
+include: ["_pages"]
+
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      permalink: /:basename/

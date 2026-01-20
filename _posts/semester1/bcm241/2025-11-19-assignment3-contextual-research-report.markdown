@@ -2,7 +2,7 @@
 layout: post
 title: "BCM 241 - Contextual Research Report"
 date: 2025-11-19
-categories: "BCM 241"
+categories: "bcm241"
 ---
 
 # Introduction and Overview

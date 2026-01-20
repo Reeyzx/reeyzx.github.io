@@ -1,0 +1,65 @@
+/*
+
+/* ============================
+   Responsive Design
+   ============================ 
+@media (max-width: 1200px) {
+  .main-content {
+    padding: 3rem 3rem 3rem 3rem;
+  }
+}
+
+
+@media (max-width: 1024px) {
+  :root {
+    --sidebar-width: 280px;
+  }
+  
+  .main-content {
+    padding: 3rem 2.5rem 3rem 2.5rem;
+  }
+  
+  .site-title {
+    font-size: 1.75rem;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 2rem 1.5rem;
+  }
+  
+  .sidebar::before {
+    position: absolute;
+  }
+  
+  .sidebar::after {
+    position: absolute;
+  }
+  
+  .sidebar-content {
+    flex-direction: column-reverse;
+  }
+  
+  .sidebar-spacer {
+    display: none;
+  }
+  
+  .main-content {
+    margin-left: 0;
+    width: 100%;
+    padding: 2rem 1.5rem;
+  }
+  
+  .categories-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .page-heading {
+    font-size: 2.25rem;
+  }
+}

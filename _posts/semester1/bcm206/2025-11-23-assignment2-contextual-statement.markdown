@@ -2,7 +2,7 @@
 layout: post
 title: "BCM 206 - Contextual Statement"
 date: 2025-11-23
-categories: "BCM 206"
+categories: "bcm206"
 ---
 
 # BCM206 Contextual Statement

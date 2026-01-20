@@ -1,0 +1,17 @@
+---
+layout: page
+title: BCM 313
+permalink: /bcm313/
+---
+
+## BCM 313 - The Future of Work
+
+### Assignments
+
+{% for assignment in site.categories.bcm313 %}
+- [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+---
+
+[Back to Home](/)

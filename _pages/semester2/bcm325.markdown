@@ -1,14 +1,14 @@
 ---
 layout: page
-title: BCM 241
-permalink: /bcm241/
+title: BCM 325
+permalink: /bcm325/
 ---
 
-## BCM 241 - Media Ethnographies
+## BCM 325 - Future Cultures
 
 ### Assignments
 
-{% for assignment in site.bcm241 %}
+{% for assignment in site.categories.bcm325 %}
 - [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
 {% endfor %}
 

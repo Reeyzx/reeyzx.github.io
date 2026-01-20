@@ -2,7 +2,7 @@
 layout: post
 title: "BCM 222 - Visual Essay"
 date: 2025-11-28
-categories: "BCM 222"
+categories: "bcm222"
 ---
 
 ## Visual Essay Link

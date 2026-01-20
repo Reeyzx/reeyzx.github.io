@@ -1,0 +1,13 @@
+---
+layout: page
+title: BCM 222
+permalink: /bcm222/
+---
+
+{% for assignment in site.categories.bcm222 %}
+- [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+---
+
+[Back to Home](/)

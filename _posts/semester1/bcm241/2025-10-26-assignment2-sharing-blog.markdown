@@ -2,7 +2,7 @@
 layout: post
 title: "BCM 241 - Sharing Blog 1"
 date: 2025-10-26
-categories: "BCM 241"
+categories: "bcm241"
 ---
 
 # Introduction

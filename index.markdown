@@ -52,6 +52,27 @@ title: Home
 <h2>Semester 2</h2>
 
 <div class="categories-grid">
+
+  <div class="categories-card">
+    <div class="categories-card-image">313</div>
+    <div class="categories-card-content">
+      <h3 class="categories-card-title">
+        <a href="{{ '/bcm313/' | relative_url }}">BCM 313</a>
+      </h3>
+      <p class="categories-card-description">The Future of Work</p>
+    </div>
+  </div>
+
+  <div class="categories-card">
+    <div class="categories-card-image">325</div>
+    <div class="categories-card-content">
+      <h3 class="categories-card-title">
+        <a href="{{ '/bcm325/' | relative_url }}">BCM 325</a>
+      </h3>
+      <p class="categories-card-description">Future Cultures</p>
+    </div>
+  </div>
+
 </div>
 
 <h2>Semester 3</h2>

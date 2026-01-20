@@ -1,0 +1,75 @@
+/* ============================
+   Variables
+   ============================ */
+:root {
+  --sidebar-width: 24%;
+  --sidebar-bg: #dce8ff;
+  --sidebar-text: #ffffff;
+  --main-bg: #433c39; /* overall page background color */
+  --primary-color: #99daff; /* links and highlights */
+  --text-color: #ffffff;  /* main text color */
+  --text-secondary: #c1d8fb; /* secondary text color */
+  --post-meta-text-color: #b6b6b6; /* post meta text color */
+
+  /* Fonts */
+  --font-title: 'Forum', serif;
+  --font-body: 'Cairo', sans-serif;
+}
+
+html {
+  scrollbar-gutter: stable;
+} 
+
+/* ============================
+   Global Reset
+   ============================ */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-body);
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* ============================
+   Layout Structure
+   ============================ */
+.site-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* ============================
+   Main Content
+   ============================ */
+.main-content {
+  margin-left: var(--sidebar-width);
+  padding: 3.5rem 4.5rem 3.5rem 4.5rem;
+  background: var(--main-bg);
+  min-height: 100vh;
+  width: calc(100% - var(--sidebar-width));
+}
+
+h1, h2, h3, h4, h5, h6, li, p {
+  color: var(--text-color);
+  margin-top: 0;
+}
+
+p {
+  color: var(--text-color);
+  margin-top: 0;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--primary-color);
+  text-decoration: none;
+}
