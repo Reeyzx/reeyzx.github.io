@@ -25,7 +25,7 @@
    ============================ */
 .post-content {
   font-family: var(--font-body);
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   background: rgb(35, 32, 32); /* this is the BG color for the box containing content */
   padding: 3rem;
   border-radius: 16px;
