@@ -56,6 +56,6 @@ Perhaps the true disruption didn't start from A's silence, but when I (or the ot
 
 # Resources
 
-Myers, I. B., & Briggs, K. C. (1985). *Myers-Briggs Type Indicator (MBTI)*. [https://www.myersbriggs.org]
-16Personalities. (n.d.). *ISTP personality*. [https://www.16personalities.com/istp-personality]
+Myers, I. B., & Briggs, K. C. (1985). *Myers-Briggs Type Indicator (MBTI)*. (https://www.myersbriggs.org)[https://www.myersbriggs.org]
+16Personalities. (n.d.). *ISTP personality*. (https://www.16personalities.com/istp-personality)[https://www.16personalities.com/istp-personality]
 Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books.
