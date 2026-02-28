@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BCM 215 - Game Media Industries"
+title: "BCM 215 - Assignment 2 Progress Report"
 date: 2026-02-28
 categories: "bcm215"
 ---
@@ -9,12 +9,12 @@ categories: "bcm215"
 
 In my original project pitch, I proposed to transform my existing raycast car chassis originally intended for a driving or racing simulator, into an arcade-styled tank chassis suitable for a family-friendly tank combat game. **My primary goal is to explore how indie developers can work with limitations by reframing a game genre, using this as a method to achieve broader appeal.**
 
-Therefore, my Digital Artifact (DA) is as such: It is a tank hull that prioritizes immediate, satisfying control over realistic complexity. As documented in **Devlog #1**, I have alreay completed the foundational conversion to create a functional tank hull, by: 
+Therefore, my Digital Artifact (DA) is defined as a battle tank chassis that prioritizes immediate, satisfying control over realistic complexity. The DA will be completed in Roblox Studio. As documented in **Devlog #1**, I have alreay completed the foundational conversion to create a functional tank hull, by: 
 
 - Stripping away the complex and redundant scripts inside the car chassis, and
 - Replacing simulation logic with static values and a hybrid steering solution. 
 
-Looking ahead, my finished DA should be a playable tank chassis built in Roblox Studio, which consist of a hull (already completed), and a turret (to be developed throughout March). Under the acknowledgement that the DA is currently ~50% completed, this progress report analyzes the decisions taken to develop the tank hull portion, as a mean to reflect on constraint‑driven design, player motivation, and autoethnographic methodology (the previously 3 established analytical frameworks).
+Looking ahead, my finished DA should consist of the combination of a hull (already completed), and a turret (to be developed throughout March). Under the acknowledgement that the DA is currently ~50% completed, this progress report analyzes the decisions taken to develop the tank hull portion, as a mean to reflect on constraint‑driven design, player motivation, and autoethnographic methodology (the previously 3 established analytical frameworks).
 
 ---
 
