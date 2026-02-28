@@ -9,7 +9,7 @@ categories: "bcm215"
 
 In my original project pitch, I proposed to transform my existing raycast car chassis originally intended for a driving or racing simulator, into an arcade-styled tank chassis suitable for a family-friendly tank combat game. **My primary goal is to explore how indie developers can work with limitations by reframing a game genre, using this as a method to achieve broader appeal.**
 
-Therefore, my Digital Artifact (DA) is defined as a battle tank chassis that prioritizes immediate, satisfying control over realistic complexity. The DA will be completed in Roblox Studio. As documented in **Devlog #1**, I have alreay completed the foundational conversion to create a functional tank hull, by: 
+Therefore, my Digital Artifact (DA) is defined as a battle tank chassis that prioritizes immediate, satisfying control over realistic complexity. The DA will be completed in Roblox Studio. As documented in **[Devlog #1](https://reeyzx.github.io/bcm215/2026/02/17/DA-remark-1.html)**, I have alreay completed the foundational conversion to create a functional tank hull, by: 
 
 - Stripping away the complex and redundant scripts inside the car chassis, and
 - Replacing simulation logic with static values and a hybrid steering solution. 
