@@ -1,0 +1,17 @@
+---
+layout: page
+title: BCM 215
+permalink: /bcm215/
+---
+
+## BCM 215 - Game Media Industries
+
+### Assignments
+
+{% for assignment in site.categories.bcm215 %}
+- [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+---
+
+[Back to Home](/)
