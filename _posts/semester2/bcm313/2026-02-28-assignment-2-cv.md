@@ -46,10 +46,10 @@ And then I got roasted. Hard. That was when I stopped posting altogether to refl
 
 Before I send anything out to an audience, I imagine myself as a stranger and view my work from a third person perspective. Would it survive? If not, there should be room for improvement.
 
-# The game jam
-**Perseverance: What I Learned When We Didn't Win**
+# The Game Jam
+**Perseverance: Will to Keep Going**
 
-A few years later, I earned myself a team of like-minded friends, and we formed a group (studio) together. Our motto is to strive for excellence. With encouragement from several of our group’s fans, we signed up for a 3-day game jam, competing against other participants to build a game under a common theme. The winner will be voted.
+A few years later, I found myself working with several like-minded friends, and we formed a group (studio) together, where our motto is to "strive for excellence". With encouragement from several of our group’s fans, we signed up for a 3-day game jam, competing against other participants to build a game under a common theme. The winner will be voted.
 
 Everything went smoothly until approximately 2 hours before the submission deadline:
 “Finally, the protagonist will arrive at the rooftop, and a cutscene should trigger. Wait, where's the cutscene?”
@@ -57,7 +57,7 @@ Everything went smoothly until approximately 2 hours before the submission deadl
 “I'm trying to port in the animations! Why is the character doing a T-pose when I try to import it from Blender into our cutscene? Call everyone quickly, let's gather the others and solve this.”
 Long story short, we got to the third runner up spot in the game jam. The consolation prize was a €2 Steam Gift Card.
 
-We didn't win, and the consolation prize likely felt more like a humiliation than a congratulation. However, after walking out of those 72 hours of development crunch, I realized the game jam wasn't done for nothing, because we did team up to try to tackle an obstacle despite little hope of winning. We walked out of the game jam learning something new, and the same knowledge was eventually applied to our later projects.
+We didn't win, and the consolation prize likely felt more like a humiliation than a congratulation. However, after walking out of the development crunch, I realized the game jam wasn't a wasted effort as we did team up to try to tackle an obstacle despite little hope of winning. We walked out of the game jam learning something new, and the same knowledge was eventually applied to our later projects.
 
 ## Value in Practice:
 
@@ -66,8 +66,6 @@ I used to think perseverance mean pushing through to win. I then realized even w
 # The Takeaway & Where This Is Going
 
 Looking back, I notice an interesting pattern I didn't see while experiencing firsthand.
-At start, I learned from the manifesto to ask “why”. It set myself a fundamental principle to look past the surface and question what's powering things from behind the scene. When I set off and experienced the roasting, the “why” went from facing outward to facing inward, allowing me to judge myself pragmatically. Lastly, the game jam served as an additional reminder that even when the judgement look unfavorable, and there might be disappointment, there's still value in continuing anyway and give it a final push.
+At start, I learned from the manifesto to ask “why”. It set myself a fundamental principle to look past the surface and question what's powering things from behind the scene. When I set off and experienced the roasting, the “why” went from facing outward to facing inward, allowing me to judge myself pragmatically. Lastly, the game jam served as an additional reminder that even when reality present itself as unfavorable, there's could still be value in continuing anyway and give it a final push.
 
-My core value is **authenticity, quality, and perseverance.** Summarizing things up, I see myself as someone who wants to create things and be mindfully awake while in the process. 
-
-Considering the mainstream voices of uncertainty regarding the future of work amidst the rollout of Artificial Intelligence (AI) and automation, I believe it would be especially crucial to be a person of agency who make choices on my principles instead of jumping between the hype trains.
+Summarizing things up, my core value would be **authenticity, quality, and perseverance.** I see myself as someone who wants to create things and be mindfully awake while in the process. Considering the mainstream voices of uncertainty regarding the future of work amidst the rollout of Artificial Intelligence (AI) and automation, I believe it would be especially crucial to be a person of agency who make choices on my principles instead of hopping between hype trains.
