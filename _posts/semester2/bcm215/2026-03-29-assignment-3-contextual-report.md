@@ -57,6 +57,8 @@ It is believed that the political economy framework (Hesmondhalgh 2019) is parti
 
 The starting point was a functional raycast car chassis built in December 2025, featuring realistic components: a manual gearbox, engine torque simulation, brake modules, and air resistance. Over one week, three key modules were removed (`EngineModule`, `TransmissionModule`, `BrakeModule`) and replaced with static variables (`TopSpeed`, `LeftTrackForce`, `RightTrackForce`, `Weight`). The intent was to transform a “simulator” into an “arcade” experience, reducing complexity to appeal to action‑oriented players.
 
+![Diagram explaining car vs tank steering](/assets/images/bcm215_assets/car-tank-steering.png)
+
 Steering was the main technical challenge. This was because real tanks use differential steering (varying two independent tracks), but standard keyboard (WASD) input assumes a single steering axis. As a result, an `Offset` variable was introduced. 
 
 > When the player presses forward, both tracks receive equal force; turning left gives negative force to the left track and positive to the right; combined inputs use `Offset` to reduce force on the inside track proportionally. The result is intuitive WASD control that preserves the underlying logic of tracked movement.
@@ -89,10 +91,23 @@ What was lost compared to a realistic tank simulator includes advanced maneuvers
 The tank tracks were initially flagged as an unresolved problem in Devlog #1. The original car chassis had four wheels with one raycast each; the tank has ten wheels, and visual tracks would clip on uneven terrain without additional raycasts. Three common approaches were evaluated:
 
 - **Texture scroll:** Simple but incompatible with independent suspension (requires rigid track).
+
+
+
 - **Individual segments:** Realistic but resource‑intensive (174 meshes per tank) and potentially requires military modelling accuracy.
+
+
+
 - **Mesh deformation:** Balances realism and performance but requires external 3D modelling (Blender), reducing modularity.
 
+
 None of these were adopted. Instead, a custom solution was developed: a script that scans the hull's wheels at runtime, then generates tracks using native Roblox cuboid parts. To minimise instance count, single parts are used between wheels, while only the sections wrapping around wheels are subdivided. The visual result, as noted in the devlog, resembles a "thick rubber band" rather than realistic tank tracks.
+
+<video width="640" height="360" controls>
+  <source src="{{ '/assets/images/bcm215_assets/track-in-motion.mp4' | relative_url }}" type="video/mp4">
+  A video demonstration of the track in motion
+</video>
+
 
 Time totalled approximately five days spread over a month: 50% research, 40% failed implementation attempts, and 10% successful execution in a single sitting. Failed attempts involved earlier iterations that either introduced game‑breaking bugs or produced visually unacceptable results.
 
