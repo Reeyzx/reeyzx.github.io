@@ -122,7 +122,7 @@ Time totalled approximately five days spread over a month: 50% research, 40% fai
 
 ### ANALYSIS
 
-The tracks compromise reflects a classic indie trade‑off. While the final solution is more resource‑intensive than mesh deformation, it is **modular**. If the wheel configuration changes, the track adapts without manual re‑modelling. Under solo development with limited time, prioritizing flexibility and long‑term stability was the most feasible path (Hesmondhalgh 2019).
+The tracks compromise reflects a classic indie trade‑off. While the final solution is more resource‑intensive than mesh deformation, it is **modular**. Even if the wheel configuration changes, the track adapts without manual re‑modelling. Under solo development with limited time, prioritizing flexibility and long‑term stability was the most feasible path (Hesmondhalgh 2019).
 
 The trade‑off between realism and feasibility was guided by a principle recorded in Devlog #2, stating that "the solution should aim to convince; perfection comes second." In practice, "convince" means providing enough visual and behavioural cues for players to accept the vehicle as a tank. Personal observations during playtesting indicate that initial focus is on appearance (multiple wheels, a large hull, perceived ability to traverse rough terrain). However, once upon entry, the attention quickly shifts to the feel of powerful movement and the satisfaction of control. This reveals a critical finding that **genre signifiers matter primarily for the initial hook; retention depends on the gameplay experience itself.**
 
