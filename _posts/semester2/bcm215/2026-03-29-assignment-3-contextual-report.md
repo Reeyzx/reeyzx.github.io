@@ -5,12 +5,12 @@ date: 2026-03-29
 categories: "bcm215"
 ---
 
-
-# Contextual Report: Turning Constraints into Genre – An Autoethnography of Indie Development
+# Assignment 3: Contextual Report
 
 ---
+![Image of the development roadmap](/assets/images/bcm215_assets/roadmap.png)
 
-# 1. Introduction
+# Introduction
 
 Independent game developers often work under severe resource constraints, such as limited time, small teams, and reliance on reusing existing code. One strategy to overcome such limitations is via **genre mainstreaming**, an adaption of additional established genre elements to make a niche game more accessible to a wider audience. This project investigates how this strategy functions in practice, using an autoethnographic approach grounded in the development of a tank prototype, built from a pre‑existing raycast car chassis.
 
@@ -26,7 +26,6 @@ These three themes would guide the inquiry of the following three aspects:
 
 Therefore, the central research question asks how indie developers can utilize genre mainstreaming under constraints, to turn disadvantages into creative advantages.
 
-
 ## Autoethnography Centric Methodology
 
 Autoethnography uses situated experience as primary data, emphasizing reflexivity and systematic observation, rather than objectivity (Rapp 2018). 
@@ -35,18 +34,23 @@ In this final report, documentation created during the development report will b
 
 ### Two development logs
 Devlog #1: [From Car to Tank](https://reeyzx.github.io/bcm215/2026/02/17/DA-remark-1.html)
+
 > This piece records the technical process of transforming a pre-built car chassis into a tank hull.
+
 Devlog #2: [Crossroad of Tank Tracks](https://reeyzx.github.io/bcm215/2026/03/28/DA-remark-2.html)
+
 > This piece records the evaluation and decision-making process of designing the tank hull's tracks.
 
 ###  Digital Artifact
 Functional tank prototype in Roblox Studio.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dPsIRm5Bi2E?si=yCUaekjhO4BDtSpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 It is believed that the political economy framework (Hesmondhalgh 2019) is particularly relevant to solo independent development, where the developer must navigate high risk and limited resources without institutional support.
 
 ---
 
-# 2. From Car to Tank Hull: Stripping Simulation for Accessibility
+# Tank Hull: Trading for Accessibility
 > **Supported by devlog #1 (17 Feb 2026)**
 
 ### PROCESS SUMMARY
@@ -77,7 +81,7 @@ What was lost compared to a realistic tank simulator includes advanced maneuvers
 
 ---
 
-# 3. Tank Tracks: Compromise Between Realism and Feasibility
+# Tank Tracks: The Compromise
 > **Supported by devlog #2 (28 Mar 2026)**
 
 ### PROCESS SUMMARY
@@ -102,13 +106,13 @@ This insight led to a broader realization about genre mainstreaming. The "thick 
 
 ---
 
-# 4. The Turret: Note on Scope
+# The Turret: Note on Scope
 
 Unfortunately, at the time of writing, the turret remained under development. The analysis focuses on the completed hull and tracks.
 
 ---
 
-# 5. Synthesis: Cognitive Load, Genre Identity & Tactical Depth
+# Cognitive Load, Genre Identity & Tactical Depth
 
 ### Cognitive Load
 
@@ -129,6 +133,7 @@ Tactical depth did not end up as the primary goal of this tank project. The comp
 
 Research on online game motivations identifies achievement and escapism as key drivers of player stickiness, with dominance influencing emotional arousal and pleasure (Chang et al. 2025). The prototype's appeal may therefore lie less in tactical decision, but more in providing a space for dominance, control, and sensory satisfaction.
 
+---
 
 # Conclusion
 
