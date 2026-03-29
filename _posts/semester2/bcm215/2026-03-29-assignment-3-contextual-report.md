@@ -61,7 +61,11 @@ The starting point was a functional raycast car chassis built in December 2025, 
 
 Steering was the main technical challenge. This was because real tanks use differential steering (varying two independent tracks), but standard keyboard (WASD) input assumes a single steering axis. As a result, an `Offset` variable was introduced. 
 
-> When the player presses forward, both tracks receive equal force; turning left gives negative force to the left track and positive to the right; combined inputs use `Offset` to reduce force on the inside track proportionally. The result is intuitive WASD control that preserves the underlying logic of tracked movement.
+- When the player presses forward, both tracks receive equal force; 
+- Turning left gives negative force to the left track and positive to the right; 
+- Combined inputs use `Offset` **(shown in the diagram above)** to reduce force on the inside track proportionally. 
+
+The result is intuitive WASD control that preserves the underlying logic of tracked movement.
 
 Time spent was approximately one week, with 15% foundational code, 50% debugging and playtesting, and 35% casual play. This last category proved critical, as extended unstructured driving revealed that player satisfaction correlated with **predictability**, rather than simulation fidelity. **A major discovery was knowing exactly how fast the hull would move or turn became more important than simulating gear shifts.**
 
@@ -92,18 +96,23 @@ The tank tracks were initially flagged as an unresolved problem in Devlog #1. Th
 
 - **Texture scroll:** Simple but incompatible with independent suspension (requires rigid track).
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7H43ZZtOQRE?si=_uER8FAC2d37eScU&amp;start=309" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **Individual segments:** Realistic but resource‑intensive (174 meshes per tank) and potentially requires military modelling accuracy.
 
-
+[Demontration: An open sourced model](https://devforum.roblox.com/t/open-sourced-simple-tank-track-system/3531568)
 
 - **Mesh deformation:** Balances realism and performance but requires external 3D modelling (Blender), reducing modularity.
 
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="521">
+<a href="https://www.reddit.com/r/roblox/comments/n85we1/made_tank_tracks_using_mesh_deformation/">Made tank tracks using mesh deformation!</a><br> by
+<a href=""></a> in
+<a href="https://www.reddit.com/r/roblox/">roblox</a>
+</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 None of these were adopted. Instead, a custom solution was developed: a script that scans the hull's wheels at runtime, then generates tracks using native Roblox cuboid parts. To minimise instance count, single parts are used between wheels, while only the sections wrapping around wheels are subdivided. The visual result, as noted in the devlog, resembles a "thick rubber band" rather than realistic tank tracks.
 
-<video width="640" height="360" controls>
+<video width="808" height="226" controls>
   <source src="{{ '/assets/images/bcm215_assets/track-in-motion.mp4' | relative_url }}" type="video/mp4">
   A video demonstration of the track in motion
 </video>
