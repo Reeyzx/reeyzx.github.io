@@ -100,7 +100,7 @@ The tank tracks were initially flagged as an unresolved problem in Devlog #1. Th
 
 - **Individual segments:** Realistic but resource‑intensive (174 meshes per tank) and potentially requires military modelling accuracy.
 
-[Demontration: An open sourced model](https://devforum.roblox.com/t/open-sourced-simple-tank-track-system/3531568)
+![Individual segment demonstration](/assets/images/bcm215_assets/tank-segment.gif)
 
 - **Mesh deformation:** Balances realism and performance but requires external 3D modelling (Blender), reducing modularity.
 
@@ -142,8 +142,12 @@ Unfortunately, at the time of writing, the turret remained under development. Th
 
 Cognitive load was managed differently across the hull and tracks. 
 - **The hull** was deliberately simplified: simulation scripts were removed, static values replaced complex physics, and the Offset steering variable allowed intuitive WASD control. The result is a vehicle that requires near-zero learning time.
-- **The tracks** on the other hand, being purely visual, add no additional mental effort for the player. What matters for cognitive load is not the realism of execution but the presence of expected genre signifiers. A tank without visible tracks risks being mistaken for an Armoured Personnel Carrier (APC).
-Thus, the bare minimum requirement for an indie game to retain genre identity is to ensure the prominent signifier is present at all, not how realistically they are rendered. For example, a football in a football game, or a construction site in a city builder.
+- **The tracks** on the other hand, being purely visual, add no additional mental effort for the player. What matters for cognitive load is not the realism of execution but the presence of expected genre signifiers. A tank without visible tracks risks being mistaken for an Armoured Personnel Carrier (APC). If this happens, it may require high mental effort to picture what exactly the game is about.
+
+![An image of a tank without track](/assets/images/bcm215_assets/tank-without-track.png)
+![An image of an APC](/assets/images/bcm215_assets/APC.jpg)
+
+Thus, to reduce player's cognitive load, it is not only important to minimize handling difficulty, but also deemed crucial to state the game's identity clearly. Attention is needed to ensure the *prominent genre signifier* is present, not how realistically the game is rendered. For example, a football should be in a football related game, or a construction site in a city builder. This bridges towards the discussion of genre identity.
 
 ### Genre Identity
 
