@@ -1,0 +1,17 @@
+---
+layout: page
+title: BCM 214
+permalink: /bcm214/
+---
+
+## BCM 214 - Digital & Social Innovation
+
+### Assignments
+
+{% for assignment in site.categories.bcm214 %}
+- [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+---
+
+[Back to Home](/)
