@@ -29,7 +29,7 @@ This contradiction identifies the core limitation of reactive trackers, as well 
 
 Skippable ads typically compress content all the way into the first five seconds to retain viewers, essentially jumping into the climax from the get go. However, I decided to open with a black screen and text (“at night, anywhere city, person with mission”) instead. This "reverse psychology" tactic (withholding action to demand attention) aligns with broader research on strategic silence in communication, where intentional pauses are used to heighten audience focus (Le et al., 2019).
 
-Frankly, time and skill constraints were also factored in to guide the final production result. With insufficient time to gather actors or develop animations, I fixed the camera at the same spot throughout the entire narrative, and used shadows to imply movement (door opening, the protagonist leaving). This technique drew references from early Pixar's work like Toy Story 1, where limited technical capabilities influenced the studio to use legs, shadows, and environmental cues to suggest character action without crossing into the boundary of uncanny valley (Smith et al., 2018).
+Frankly, time and skill constraints were also factored in to guide the final production result. With insufficient time to gather actors or develop animations, I fixed the camera at the same spot throughout the entire narrative, and used shadows to imply movement (door opening, the protagonist leaving). This technique drew references from early Pixar's work like Toy Story 1, where limited technical capabilities influenced the studio to use legs, shadows, and environmental cues to suggest character action without crossing into the boundary of uncanny valley.
 
 The decision to produce a single 60‑second video was a reflection of my prior experience with longer narratives, even though other compositions like four 15‑second clips (e.g. TikTok, YouTube Shorts) were listed as possibility, and also actively discussed in class. A 15‑second format, while inviting novelty, potentially demands high‑precision animation or drawing skills to establish context quickly. I believe there's a risk where any misstep could result in my work appearing disjointed. By working within a 60‑second structure, I gain a bigger creative freedom maintain narrative coherence using implied actions (shadows, sound) and a clear cause‑and‑effect arc while still respecting the brevity required for an advertisement.
 
@@ -47,12 +47,11 @@ On a final note, I would like to frame this video as a use case visualization of
 ### Composition
 - Roblox Studio (3D scene building)
 - Canva (Final compilation & editing)
+
 ### Audio
 - All sound effects were downloaded from Pixabay, stated free of attribution
 - All speeches were recorded via TTS in Qwen AI
 
-# Reference List
+# Reference
 
 Le, P.D., Teo, H.X., Pang, A., Li, Y. and Goh, C.Q. (2019) 'When is silence golden? The use of strategic silence in crisis communication', Corporate Communications: An International Journal, 24(1), pp. 162–178. Available at: https://doi.org/10.1108/CCIJ-10-2018-0108 (Accessed: 1 April 2026).
-
-Smith, S., Brown, N. and Summers, S. (eds.) (2018) Toy Story: How Pixar Reinvented the Animated Feature. London: Bloomsbury Academic. Available at: https://www.bloomsburycollections.com/book/toy-story (Accessed: 1 April 2026).
