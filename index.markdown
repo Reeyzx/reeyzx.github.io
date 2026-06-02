@@ -78,5 +78,24 @@ title: Home
 <h2>Semester 3</h2>
 
 <div class="categories-grid">
+
+  <div class="categories-card">
+    <div class="categories-card-image">302</div>
+    <div class="categories-card-content">
+      <h3 class="categories-card-title">
+        <a href="{{ '/bcm302/' | relative_url }}">BCM 302</a>
+      </h3>
+      <p class="categories-card-description">Advanced Digital Artefact</p>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+<div class="categories-grid">
 </div>
 
