@@ -1,0 +1,17 @@
+---
+layout: page
+title: BCM 302
+permalink: /bcm302/
+---
+
+## BCM 302 - Advanced Digital Artefact
+
+### Assignments
+
+{% for assignment in site.categories.bcm302 %}
+- [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+---
+
+[Back to Home](/)
