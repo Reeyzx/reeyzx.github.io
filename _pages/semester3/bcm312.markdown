@@ -1,0 +1,17 @@
+---
+layout: page
+title: BCM 312
+permalink: /bcm312/
+---
+
+## BCM 312 - Animal, Human, Technology
+
+### Assignments
+
+{% for assignment in site.categories.bcm312 %}
+- [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+---
+
+[Back to Home](/)
