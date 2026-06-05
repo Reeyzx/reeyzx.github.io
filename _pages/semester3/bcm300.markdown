@@ -1,0 +1,17 @@
+---
+layout: page
+title: BCM 300
+permalink: /bcm300/
+---
+
+## BCM 300 - Game Experience Design
+
+### Assignments
+
+{% for assignment in site.categories.bcm300 %}
+- [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+---
+
+[Back to Home](/)
