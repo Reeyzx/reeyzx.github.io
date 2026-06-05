@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BCM 300 - Game Experience Design"
+title: "BCM 300 - Gameplay Experience: Catan"
 date: 2026-05-25
 categories: "bcm300"
 ---
