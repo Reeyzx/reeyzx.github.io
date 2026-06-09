@@ -14,11 +14,12 @@ The concept of Mindful Learning addresses a socially severe issue (exam stress) 
 
 I believe it is crucial to consider a critical edge case, **institional adaption**. While a boost in popularity is attractive on paper, if a school were to make this compulsory (e.g. students must watch this video and write a 100 word report as homework), the context could shift from voluntary relief to forced participation, and that would inversely cause more academic stress. Local example include the English i-Learner, and the Chinese equivalent (智愛中文平台).
 
-To protect this project's unique vision, I recommend explicitly stating the boundary where/how Mindful Learning should be distributed: Is it a strictly parent-led tool? Or is it self-discovered by the targetedheir own tablet? A disclaimer could prevent institutional misuse and the compromise of the platform's core value.
+To protect this project's unique vision, I recommend explicitly stating the boundary where/how Mindful Learning should be distributed: Is it a strictly parent-led tool? Or is it self-discovered by the schoolchildren's own tablet? A disclaimer could prevent institutional misuse and the compromise of the platform's core value.
 
 I would also like to mention 2 potential hurdles regarding the iteration methodology:
 - Relying on YouTube comments for user feedback may be flawed. According to YouTube's "Made for Kids" (COPPA) policies, comments are automatically disabled for content targeting "kids," which include primary schoolers (age <12). 
 - If comments are enabled, a child may be unlikely to leave critical feedback if their parent is also watching the video with them, which risks breaking the feedback loop. 
+
 To capture authentic user data, I suggest designing a digital survey (e.g. Google Form) linked in the video/channel's description. This allows parents to fill it out with their child annoymously.
 
 ---
