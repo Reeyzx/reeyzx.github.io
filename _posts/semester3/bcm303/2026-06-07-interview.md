@@ -15,9 +15,9 @@ This report examines my interviewee (alias QwertyAndrew), who undertook an one-y
 
 # 2. Case Study Context
 
-## Background of the internship
-
 ![Software used during development](/assets/images/bcm303_assets/It_works_when_its_enabled.gif)
+
+## Background of the internship
 
 The project goal was to create an educational VR game for students to learn biology, with a secondary focus on physiotherapy. The intern handled a grand total of **3D modeling, UI, UX, as well as audio,** working alongside a backend coder. A "generalist" boss managed finance and design, while a university professor required academic documentation.
 
@@ -39,12 +39,16 @@ Textual analysis of the interview identifies several recurring themes that illum
 
 ## Technological Limitations
 
+![VR with glasses](/assets/images/bcm303_assets/vr-virtual-reality-glasses-9031.png)
+
 - Hardware constraints severely disrupted iteration. The intern reported that the simulator could not "feel the force," and testing the real chair was dangerous as "the chair almost flew away (figuratively)," implying a certain degree of **mental unpredictability**.
 - VR introduces **physical unpredictability**: An Asian nose (interviewee), versus an European nose (one playtester) affected how UI elements appeared in the headset, requiring cross-cultural physical adjustments that flat-screen development never encounters. 
 
 These usability issues align with Ferguson et al.'s (2025) findings on VR's impediments to collaborative workflow, where physical interaction creates cognitive barriers.
 
 ## Mindset Discrepencies
+
+![Fight](/assets/images/bcm303_assets/conflict1.png)
 
 Structural isolation compounded these technical problems. Based on interviewee's testimony, Dutch law required a "middleman" company to guide academic internships, creating conflicting expectations between **the boss** (who praised the intern's work), and **the professor** (who demanded rigorous documentation). 
 
@@ -53,6 +57,8 @@ In addition, the interviewee also noted the project **investor's strong pro-AI s
 He noted that **satisfying both stakeholders' evaluations was "the hardest part."** This friction illustrates how collaborative production often involves navigating divergent success criteria. Given the risk of potential misalignment, the team must navigate carefully to mitigate clashes.
 
 ## The Key: Communication
+
+![Communication](/assets/images/bcm303_assets/communication.png)
 
 Yet, despite external isolation, internal communication habits prevented complete collapse. The interviewee emphasized **immediate communication**, believing that "no communication means it is very bad." When a teammate proposed a late-stage concept overhaul, the plan was quickly rejected to "prevent scope creep," demonstrating the professionalism required to ship a product on time.
 
