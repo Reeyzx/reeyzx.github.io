@@ -7,9 +7,11 @@ categories: bcm303
 
 # 1. Introduction
 
+My professional background is in game development, and I will be serving as the "coordinator" role for my group's collaborative project in BCM303, where I provide the platform for our advertising campaign on Roblox. This role demands that I understand the dynamics of effective collaboration, especially when it comes to managing creative workflows and resolving conflicts. 
+
 ![Interview Session](/assets/images/bcm303_assets/vc.png)
 
-This report examines my interviewee (alias QwertyAndrew), who undertook an one-year academic internship developing a Virtual Reality (VR) medical game in the Netherlands. By analyzing the intern's personal experiences, this report investigates **how production strategies adapt to resource-starved environments,** a lesson that serves crucial insights as BCM303 demands group collaboration. The study contributes to understanding collaborative production, as outlined by Graham and Gandini (2017), by highlighting how creative teams must construct internal support systems when external structures collapse.
+However, while my experience is rooted in small, friendly teams, real-world production often involves demanding stakeholders and suboptimal conditions. My interviewee (alias QwertyAndrew), has been battle-tested in a year-long academic internship in the Netherlands, where groupmates were not always cooperative, and external support was almost nonexistent. His experiences with VR game development (a Virtual Reality (VR) medical game) offer valuable insights into how collaboration functions when the stakes are high and resources are scarce.
 
 ---
 
