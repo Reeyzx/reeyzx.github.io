@@ -70,8 +70,6 @@ The first-semester failure directly reflected the consequence of overburdened so
 
 # 4. Critical Evaluation
 
-## Regarding internship
-
 This case study demonstrates thus: 
 
 **When external support structures vanish, internal collaboration becomes the only viable lifeline.** The recovery in the second semester, attributed to adding a teammate and forcing communication, proves that collaboration matters, even though it could not fully overcome the hardware immaturity that transforms small discrepancies into days worth of micro-tweaking.
