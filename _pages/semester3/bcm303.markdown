@@ -1,0 +1,17 @@
+---
+layout: page
+title: BCM 303
+permalink: /bcm303/
+---
+
+## BCM 303 - Collaborative Production Workshop
+
+### Assignments
+
+{% for assignment in site.categories.bcm303 %}
+- [{{ assignment.title }}]({{ assignment.url }}) - {{ assignment.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+---
+
+[Back to Home](/)

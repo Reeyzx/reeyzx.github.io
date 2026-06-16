@@ -82,7 +82,7 @@ The interviewee's advice to "know where to stop" and use time boxing to prevent 
 
 ---
 
-## 5. Conclusion
+# 5. Conclusion
 
 This report analyzed a VR internship to understand collaborative production in resource-starved environments. The findings confirm that **while hardware constraints and stakeholder conflicts pose severe threats, deliberate communication and scope management are the critical pieces for survival.** 
 
