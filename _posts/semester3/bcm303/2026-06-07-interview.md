@@ -80,6 +80,8 @@ The "middleman" arrangement, while legally required, offered limited practical s
 
 The boss's generalist capabilities, while valuable, could not replace specialized technical expertise in VR hardware, and the investor's AI enthusiasm risked prioritizing investor appeal over end-user needs. The intern explicitly noted that companies sometimes "implement AI for the investors, but not for the end users," and that such misalignment violates agile principles like the ["kill your darling"](https://en.wiktionary.org/wiki/kill_one%27s_darlings) principle when features do not serve players.
 
+---
+
 # Conclusion
 
 For small teams (e.g. my Roblox development group), the lesson is that **team & project structure, and shared vision & ambition are not optional.** The internship shows that collaboration is the critical infrastructure that put the project on a lifeline when the broader developer ecosystem offers no support. **An effective team must deliberately engineer communication channels to contain fires, and protect member's wellbeing to survive. No mental breakdown is worth it for the pursue of excellence.**
