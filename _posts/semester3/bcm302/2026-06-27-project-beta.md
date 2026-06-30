@@ -15,7 +15,6 @@ For our Project Beta, we are presenting a playable Prologue of Bear Witness, our
 
 What's included: A functional demonstration of Bear Witness's prologue chapter. Prototype character art is present. Features are to be polished ahead.
 
-
 ---
 
 # Feedback Loop Documentation
@@ -37,3 +36,9 @@ To compensate, we inserted varying dialogue after players shape the bear's ident
 Initially, based on evidences from Peer Review 1, about three peers expressed concern that the gacha scene felt too much like a reward, which is an unwanted consequence of our satirical intent. In response, we rewrote the scene to feel uncomfortable and critical. 
 
 After the change, our testers find the in-game exchange stressful rather than "simply fun", which aligns with our goal of critiquing impulsive spending rather than glorifying it. However, concerns regarding the game's pacing is present, and has been noted. This issue will be addressed in future iteration, allowing the player to better engage with the plot psychologically.
+
+---
+
+## Link
+(game link if anyone bothers)
+[boop me](https://mega.nz/folder/ffAU1YiL#mSd2MseYp0GeLzghrtfGDQ)
