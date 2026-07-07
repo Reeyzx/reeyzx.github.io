@@ -7,6 +7,9 @@ categories: "bcm302"
 
 # Peer Review I
 This entry includes two peer review sections.
+See Peer Review II [here](https://reeyzx.github.io/bcm302/2026/07/06/peer-review-2.html)
+
+---
 
 # [Project 1 -- Mindful Learning](https://wwh1498.wixsite.com/bcm-302/post/mindful-learning-reducing-exam-stress-for-kids)
 
